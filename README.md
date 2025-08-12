@@ -40,6 +40,7 @@
 | Xinference | CVE-2025-45424           |
 | Torchserve | CVE-2023-43654         |
 
+检测能力持续升级
 
 ## 环境要求
 - **操作系统**：Windows 10/11、Linux (Ubuntu/Debian/CentOS)、macOS
