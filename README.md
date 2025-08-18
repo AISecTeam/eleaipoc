@@ -20,23 +20,6 @@
 ## 简介
 电鳗 AI 检测套装是一款专注于 AI 框架的自动化安全检测工具集，深度聚焦 AI 框架特有的安全风险场景，可快速识别AI供应链漏洞的高危漏洞，提供针对性修复建议与安全加固方案。
 
-<div style="position:relative;padding-bottom:56.25%;width:100%;height:0;">
-    <iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=113513032911164&bvid=BV1feSKYmEhW&cid=26851869069&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute;height:100%;width:100%;"></iframe></div>
-
-这里使用了 CSS 的 padding-bottom 属性实现自适应缩放，在PC、Pad、App界面都有较好的显示。
-这里的 padding-bottom 的值是根据视频的宽高比计算得出的，16:9 的视频宽高比对应的 padding-bottom 值为 56.25%，如果是 4:3 的视频，该值则为 75%
-
-参与讨论
-
-(Participate in the discussion)
-
-参与讨论
-
-
-吃土皮皮虎
-吃土皮皮虎的个人备份站点
-文章
-
 
 ### 🌟 核心特性
 - **AI 框架原生适配**：基于 AI 框架底层通信协议（如 RPC/REST API）和内存管理机制，定制化检测逻辑，而非通用网络扫描
